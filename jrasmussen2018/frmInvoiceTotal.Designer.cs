@@ -43,7 +43,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(94, 48);
+            this.label1.Location = new System.Drawing.Point(82, 47);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(49, 13);
             this.label1.TabIndex = 0;
@@ -52,7 +52,7 @@
             // txtSubtotal
             // 
             this.txtSubtotal.AccessibleName = "txtSubtotal";
-            this.txtSubtotal.Location = new System.Drawing.Point(208, 45);
+            this.txtSubtotal.Location = new System.Drawing.Point(196, 44);
             this.txtSubtotal.Name = "txtSubtotal";
             this.txtSubtotal.Size = new System.Drawing.Size(100, 20);
             this.txtSubtotal.TabIndex = 1;
@@ -60,7 +60,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(94, 79);
+            this.label2.Location = new System.Drawing.Point(82, 78);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(91, 13);
             this.label2.TabIndex = 5;
@@ -69,7 +69,7 @@
             // txtDiscountpercent
             // 
             this.txtDiscountpercent.AccessibleName = "txtDiscountpercent";
-            this.txtDiscountpercent.Location = new System.Drawing.Point(208, 76);
+            this.txtDiscountpercent.Location = new System.Drawing.Point(196, 75);
             this.txtDiscountpercent.Name = "txtDiscountpercent";
             this.txtDiscountpercent.Size = new System.Drawing.Size(100, 20);
             this.txtDiscountpercent.TabIndex = 2;
@@ -77,7 +77,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(94, 107);
+            this.label3.Location = new System.Drawing.Point(82, 106);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(90, 13);
             this.label3.TabIndex = 6;
@@ -86,7 +86,7 @@
             // txtDiscountamount
             // 
             this.txtDiscountamount.AccessibleName = "txtDiscountamount";
-            this.txtDiscountamount.Location = new System.Drawing.Point(208, 104);
+            this.txtDiscountamount.Location = new System.Drawing.Point(196, 103);
             this.txtDiscountamount.Name = "txtDiscountamount";
             this.txtDiscountamount.ReadOnly = true;
             this.txtDiscountamount.Size = new System.Drawing.Size(100, 20);
@@ -96,7 +96,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(94, 136);
+            this.label4.Location = new System.Drawing.Point(82, 135);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(34, 13);
             this.label4.TabIndex = 8;
@@ -105,7 +105,7 @@
             // txtTotal
             // 
             this.txtTotal.AccessibleName = "txtTotal";
-            this.txtTotal.Location = new System.Drawing.Point(208, 133);
+            this.txtTotal.Location = new System.Drawing.Point(196, 132);
             this.txtTotal.Name = "txtTotal";
             this.txtTotal.ReadOnly = true;
             this.txtTotal.Size = new System.Drawing.Size(100, 20);
@@ -115,7 +115,7 @@
             // btnCalculate
             // 
             this.btnCalculate.AccessibleName = "btnCalculate";
-            this.btnCalculate.Location = new System.Drawing.Point(109, 167);
+            this.btnCalculate.Location = new System.Drawing.Point(97, 166);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(75, 23);
             this.btnCalculate.TabIndex = 3;
@@ -126,7 +126,7 @@
             // btnExit
             // 
             this.btnExit.AccessibleName = "btnExit";
-            this.btnExit.Location = new System.Drawing.Point(221, 167);
+            this.btnExit.Location = new System.Drawing.Point(209, 166);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(75, 23);
             this.btnExit.TabIndex = 4;
@@ -138,7 +138,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(399, 267);
+            this.ClientSize = new System.Drawing.Size(390, 256);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnCalculate);
             this.Controls.Add(this.txtTotal);
