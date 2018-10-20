@@ -115,7 +115,7 @@
             // btnCalculate
             // 
             this.btnCalculate.AccessibleName = "btnCalculate";
-            this.btnCalculate.Location = new System.Drawing.Point(85, 166);
+            this.btnCalculate.Location = new System.Drawing.Point(97, 166);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(75, 23);
             this.btnCalculate.TabIndex = 3;
