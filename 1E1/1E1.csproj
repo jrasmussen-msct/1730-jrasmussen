@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{06D4B29E-644E-4DD1-AE14-B67089CB3DED}</ProjectGuid>
+    <ProjectGuid>{95822E98-9DD0-4F1F-8D33-4FE29FF17E7A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>jrasmussen1c1</RootNamespace>
-    <AssemblyName>jrasmussen1c1</AssemblyName>
+    <RootNamespace>_1E1</RootNamespace>
+    <AssemblyName>1E1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,12 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1E1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="1E1.Designer.cs">
-      <DependentUpon>1E1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
